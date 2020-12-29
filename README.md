@@ -1,2 +1,2 @@
 # node-ts-template
-Node template with typescript, testing, linting out of the box. 
+Node.js template with typescript, testing, linting out of the box. 
