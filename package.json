@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node dist/index.js",
-    "build": "rm -r dist && tsc",
+    "build": "rm -rf dist && mkdir dist && tsc",
     "test": "jest --coverage",
     "lint": "eslint . --ext .ts"
   },
